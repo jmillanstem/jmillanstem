@@ -11,8 +11,6 @@ Estoy interesado en el desarrollo **Full Stack** y trabajo principalmente con la
 
 En mi día a día en STEMDO, utilizo mucho Odoo y estoy constantemente aprendiendo y mejorando mis habilidades en esta plataforma. 🚀
 
-![Odoo](https://www.odoo.com/web/image/website/1/logo/Odoo)
-
 ### Proyectos y Colaboraciones
 Estoy abierto a colaborar en proyectos que impliquen desarrollo Full Stack, especialmente aquellos que utilicen las tecnologías mencionadas anteriormente. También tengo un gran interés en participar en iniciativas que promuevan el desarrollo de habilidades tecnológicas en comunidades locales. 🤝
 
