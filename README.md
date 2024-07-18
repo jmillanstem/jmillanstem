@@ -21,7 +21,7 @@ Puedes contactarme a través de mi correo electrónico: [jmillan@stemdo.io](mail
 Además de mi pasión por la tecnología, juego al baloncesto en mi pueblo en Huelva. 🏀 Es una forma genial de mantenerme activo y conectado con mi comunidad local.
 
 ### Información Adicional
-- ⚡ Dato curioso: STEMDO tiene una colaboración con Appian, una empresa líder en automatización de procesos, lo que nos permite formar a más de 200 personas en tecnologías punteras. 🌟【7†source】【9†source】.
+- ⚡ Dato curioso: STEMDO tiene una colaboración con Appian, una empresa líder en automatización de procesos, lo que nos permite formar a más de 200 personas en tecnologías punteras. 🌟.
 
 <!---
 jmillanstem/jmillanstem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
