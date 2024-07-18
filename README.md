@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy @jmillanstem
 
 ### Sobre mí
-Trabajo en [STEMDO](https://www.stemdo.io) 🌐, una startup innovadora con sede en Huelva que se dedica a crear un ecosistema de empleo digital en regiones con altas tasas de desempleo. STEMDO se enfoca en formar y emplear talento local en tecnologías muy demandadas como cloud, ciberseguridad y automatización de procesos. 🌍【6†source】【8†source】.
+Trabajo en [STEMDO](https://www.stemdo.io) 🌐, una startup innovadora con sede en Huelva que se dedica a crear un ecosistema de empleo digital en regiones con altas tasas de desempleo. STEMDO se enfoca en formar y emplear talento local en tecnologías muy demandadas como cloud, ciberseguridad y automatización de procesos. 🌍.
 
 ### Intereses y Tecnologías
 Estoy interesado en el desarrollo **Full Stack** y trabajo principalmente con las siguientes tecnologías:
