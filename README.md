@@ -18,6 +18,12 @@ Estoy interesado en el desarrollo **Full Stack** y trabajo principalmente con la
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=jmillanstem&show_icons=true&theme=radical)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jmillanstem&layout=compact&theme=radical)
 
+### Contador de Commits y Pull Requests
+
+- **Total de Commits en 2024**: ![Total Commits](https://img.shields.io/github/commit-activity/y/jmillanstem/jmillanstem?style=for-the-badge&label=Total%20Commits&color=blue)
+- **Pull Requests Abiertos**: ![Pull Requests](https://img.shields.io/github/issues-pr/jmillanstem/jmillanstem?style=for-the-badge&label=Pull%20Requests%20Abiertos&color=green)
+- **Pull Requests Cerrados**: ![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/jmillanstem/jmillanstem?style=for-the-badge&label=Pull%20Requests%20Cerrados&color=red)
+
 ### Cómo contactarme
 Puedes contactarme a través de mi correo electrónico: [jmillan@stemdo.io](mailto:jmillan@stemdo.io) 📧
 
