@@ -51,7 +51,7 @@ Estoy interesado en **Full Stack**, pero mi día a día es **backend** y **custo
 
 ## 📬 Contacto
 [![Email](https://img.shields.io/badge/Email-jmillan%40stemdo.io-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmillan@stemdo.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaime%20Mill%C3%A1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jaime-millan/](https://www.linkedin.com/in/jaime-mill%C3%A1n-conejero-569a88255/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaime%20Mill%C3%A1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-millan/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jmillanstem&style=flat-square)
 
