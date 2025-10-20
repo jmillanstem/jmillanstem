@@ -25,8 +25,6 @@ Estoy interesado en **Full Stack**, pero mi día a día es **backend** y **custo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmillanstem&layout=compact&theme=radical)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmillanstem&theme=radical)
 
-> *Tip:* estas tarjetas dependen de servicios externos. Si no cargan, recarga la página o vuelve más tarde.
-
 ---
 
 ## 🔗 Enlaces rápidos (commits, PRs e issues)
@@ -36,8 +34,6 @@ Estoy interesado en **Full Stack**, pero mi día a día es **backend** y **custo
 - 🔵 **PRs cerrados/mergedeados**: [is:pr author:jmillanstem is:closed](https://github.com/pulls?q=is%3Apr+author%3Ajmillanstem+is%3Aclosed)
 - 🟠 **Issues abiertos** (autor): [is:issue author:jmillanstem is:open](https://github.com/issues?q=is%3Aissue+author%3Ajmillanstem+is%3Aopen)
 - 🟡 **Issues cerrados** (autor): [is:issue author:jmillanstem is:closed](https://github.com/issues?q=is%3Aissue+author%3Ajmillanstem+is%3Aclosed)
-
-> Estos enlaces buscan en **todo GitHub** por tu usuario (no solo en un repo), así que siempre estarán actualizados.
 
 ---
 
